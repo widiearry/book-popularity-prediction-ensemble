@@ -182,6 +182,4 @@ Run all cells sequentially to reproduce the preprocessing, validation, modeling,
 
 ## Author
 
-**Ni Putu Widya Antary**
-
-Data Science and Machine Learning Portfolio Project
+Built by [Ni Putu Widya Antary](https://github.com/widiearry).
